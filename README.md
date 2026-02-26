@@ -11,7 +11,7 @@
 **Bignalytics Python Notes** is my structured Python learning repository where I document:
 
 - 📘 Concept Notes (Day-by-Day Learning)
-- 💻 Practice Sets
+- 💻 Practice Sets  
 - 🧠 Interview Preparation
 - 🔥 Deep Dive Explanations    
 
