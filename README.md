@@ -27,7 +27,7 @@ This repository reflects my commitment to building strong Python fundamentals wi
 These notebooks contain detailed theoretical explanations and deep understanding of core Python concepts:
 
 - `Notes.ipynb` → Day-by-day structured notes
-- `Functions.ipynb` → Deep dive into functions
+- `Functions.ipynb` → Deep dive into functions   
 - `OOPs.ipynb` → Object Oriented Programming concepts
 - `If.ipynb` → Conditional statements
 - `for_loop.ipynb` → For loop concepts
