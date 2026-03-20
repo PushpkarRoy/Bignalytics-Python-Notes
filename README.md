@@ -1,100 +1,109 @@
-# 🐍 Bignalytics Python Notes
+# 🐍 Bignalytics Python & Data Analysis Notes
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Project Type](https://img.shields.io/badge/Type-Learning%20Repository-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Learning-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-Data%20Analysis-orange)
 
 ---
 
 ## 🚀 About This Repository
 
-**Bignalytics Python Notes** is my structured Python learning repository where I document:
+**Bignalytics Notes** is my structured learning repository where I document my journey in:
 
-- 📘 Concept Notes (Day-by-Day Learning)    
+- 🐍 Python  
+- 🐼 Pandas  
+- 📊 Data Analysis  
+
+This repo includes:
+
+- 📘 Concept Notes (Day-by-Day Learning)  
 - 💻 Practice Sets  
-- 🧠 Interview Preparation   
-- 🔥 Deep Dive Explanations      
+- 🧠 Interview Preparation  
+- 🔥 Deep Dive Explanations  
 
 <img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/9a11f8ca-222a-48f7-b78e-98478134e33e" />
 
+---
 
-This repository reflects my commitment to building strong Python fundamentals with clarity and consistency. 
-   
----  
-   
-# 📘 Python Notes (Concept Learning)    
+# 📘 Python Notes
 
-These notebooks contain detailed theoretical explanations and deep understanding of core Python concepts:
+Core Python fundamentals with deep understanding:
 
-- `Notes.ipynb` → Day-by-day structured notes
-- `Functions.ipynb` → Deep dive into functions   
-- `OOPs.ipynb` → Object Oriented Programming concepts
-- `If.ipynb` → Conditional statements
-- `for_loop.ipynb` → For loop concepts
-- `while_loop.ipynb` → While loop concepts
+- `Notes.ipynb`  
+- `Functions.ipynb`  
+- `OOPs.ipynb`  
+- `If.ipynb`  
+- `for_loop.ipynb`  
+- `while_loop.ipynb`  
 
-### Topics Covered
+### 🔹 Topics
+- Data Types & Variables  
+- Operators  
+- Flow Control  
+- Loops  
+- Functions (`*args`, `**kwargs`)  
+- Print Statement  
+- OOP Concepts  
 
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops (for, while)
-- break / continue / pass
-- Functions (`*args`, `**kwargs`)
-- Print statement (all parameters)
-- OOP (Encapsulation, Inheritance, Polymorphism)
-- Interview-focused concepts
+---
+
+# 🐼 Pandas Notes
+
+Focused on real-world data analysis using Pandas:
+
+- DataFrame Basics  
+- Row & Column Selection  
+- Filtering Data  
+- Data Cleaning  
+- Sorting & Operations  
+- CSV Handling  
+
+📌 Covers real Data Analyst workflows:
+- Load → Understand → Clean → Transform → Export  
 
 ---
 
 # 💻 Practice Sets
 
-This section contains hands-on practice files to strengthen logical thinking and problem-solving skills:
+Hands-on practice to build strong logic:
 
-- `practice_test1.ipynb`
-- `practicing_oops.ipynb`
-- `Interview_questions.ipynb`
-- `class.ipynb`
-- `new.py`
+- `practice_test1.ipynb`  
+- `practicing_oops.ipynb`  
+- `Interview_questions.ipynb`  
+- `class.ipynb`  
+- `new.py`  
 
-### Purpose of Practice Files
-
-- Solving logical problems
-- Applying OOP concepts
-- Loop-based challenges
-- Function-based exercises
-- Interview-style coding questions
-
-These practice sets help transform theory into real coding skills.
+✔ Problem-solving  
+✔ OOP practice  
+✔ Interview questions  
 
 ---
 
-# 🧠 Skills Built Through This Repository
+# 🧠 Skills Gained
 
 ✔ Strong Python fundamentals  
-✔ Logical thinking improvement  
+✔ Data manipulation skills  
+✔ Logical thinking  
 ✔ Clean coding practices  
-✔ Interview preparation mindset  
-✔ Deep conceptual clarity  
+✔ Real-world data handling  
 
 ---
 
-# 🎯 Future Roadmap
+# 🎯 Future Additions
 
-- File Handling
-- Exception Handling
-- Modules & Packages
-- Advanced OOP
-- Data Structures (Advanced)
-- Real-world mini projects
-- Data Analysis using Pandas
+- 📊 NumPy  
+- 📈 Matplotlib  
+- 📉 Data Visualization Projects  
+- 🗄️ SQL Integration  
+- 📁 Real-world datasets  
 
 ---
 
 # 👤 Author
 
 **Pushpkar Roy**  
-Aspiring Data Analyst | Python Learner  
+Aspiring Data Analyst  
 
 📧 pushpkarroy880@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/pushpkar-roy  
@@ -102,4 +111,4 @@ Aspiring Data Analyst | Python Learner
 
 ---
 
-⭐ If you find this repository helpful, consider giving it a star!
+⭐ If you find this helpful, give it a star!
