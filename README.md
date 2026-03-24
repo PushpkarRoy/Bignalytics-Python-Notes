@@ -12,7 +12,7 @@
 **Bignalytics Notes** is my structured learning repository where I document my journey in:
 
 - 🐍 Python  
-- 🐼 Pandas  
+- 🐼 Pandas    
 - 📊 Data Analysis  
 
 This repo includes:
