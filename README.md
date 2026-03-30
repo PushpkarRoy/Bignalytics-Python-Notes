@@ -19,7 +19,7 @@ This repo includes:
 
 - 📘 Concept Notes (Day-by-Day Learning)  
 - 💻 Practice Sets  
-- 🧠 Interview Preparation  
+- 🧠 Interview Preparation     
 - 🔥 Deep Dive Explanations  
 
 <img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/9a11f8ca-222a-48f7-b78e-98478134e33e" />
