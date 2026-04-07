@@ -11,7 +11,7 @@
 
 **Bignalytics Notes** is my structured learning repository where I document my journey in:
 
-- 🐍 Python  
+- 🐍 Python    
 - 🐼 Pandas      
 - 📊 Data Analysis  
     
